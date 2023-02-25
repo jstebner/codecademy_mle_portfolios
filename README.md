@@ -1,5 +1,5 @@
 # codecademy mle portfolios
-codecademy ml/ai engineering foundations portfolio
+codecademy ml/ai engineering portfolio projects
 
 
 ## intro mle portfolio
