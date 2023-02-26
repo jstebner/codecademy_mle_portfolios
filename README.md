@@ -11,6 +11,8 @@ data:
 - using data from https://www.kaggle.com/datasets/midhundasl/amazon-headset-specs?resource=download
 
 analysis:
-- probably just get summary statistics for now
-- maybe also see difference in actual v selling price to see if prices are a marketing tactic or smthn
+- jabra is way too damn expensive
+- boult audio sells for way less than actual
+- logitech usually sells close to actual
+- most headphone sellers sell at around half of actual price
 ```
